@@ -1,4 +1,5 @@
-package com.example.personproject;
+package com.example.personProject;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
